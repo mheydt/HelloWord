@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "HelloWord", "HelloWord\HelloWord.sfproj", "{FEC86E67-0A54-4D4C-8835-8B64B3B65B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1", "Actor1\Actor1.csproj", "{1E58F0CA-84B3-4C8D-AFB5-060E7A0368BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1.Interfaces", "Actor1.Interfaces\Actor1.Interfaces.csproj", "{C7642860-BA9D-4C5A-9E22-353F3D5C3CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC86E67-0A54-4D4C-8835-8B64B3B65B54}.Debug|x64.ActiveCfg = Debug|x64
+		{FEC86E67-0A54-4D4C-8835-8B64B3B65B54}.Debug|x64.Build.0 = Debug|x64
+		{FEC86E67-0A54-4D4C-8835-8B64B3B65B54}.Debug|x64.Deploy.0 = Debug|x64
+		{FEC86E67-0A54-4D4C-8835-8B64B3B65B54}.Release|x64.ActiveCfg = Release|x64
+		{FEC86E67-0A54-4D4C-8835-8B64B3B65B54}.Release|x64.Build.0 = Release|x64
+		{FEC86E67-0A54-4D4C-8835-8B64B3B65B54}.Release|x64.Deploy.0 = Release|x64
+		{1E58F0CA-84B3-4C8D-AFB5-060E7A0368BC}.Debug|x64.ActiveCfg = Debug|x64
+		{1E58F0CA-84B3-4C8D-AFB5-060E7A0368BC}.Debug|x64.Build.0 = Debug|x64
+		{1E58F0CA-84B3-4C8D-AFB5-060E7A0368BC}.Release|x64.ActiveCfg = Release|x64
+		{1E58F0CA-84B3-4C8D-AFB5-060E7A0368BC}.Release|x64.Build.0 = Release|x64
+		{C7642860-BA9D-4C5A-9E22-353F3D5C3CB5}.Debug|x64.ActiveCfg = Debug|x64
+		{C7642860-BA9D-4C5A-9E22-353F3D5C3CB5}.Debug|x64.Build.0 = Debug|x64
+		{C7642860-BA9D-4C5A-9E22-353F3D5C3CB5}.Release|x64.ActiveCfg = Release|x64
+		{C7642860-BA9D-4C5A-9E22-353F3D5C3CB5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
