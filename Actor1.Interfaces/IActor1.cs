@@ -13,6 +13,7 @@ namespace Actor1.Interfaces
     /// </summary>
     public interface IActor1 : IActor
     {
+
         /// <summary> 
         /// TODO: Replace with your own actor method.
         /// </summary>
